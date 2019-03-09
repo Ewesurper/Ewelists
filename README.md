@@ -1,2 +1,3 @@
 # ewelists
-word lists I have compiled
+Wordlists I have compiled.
+Feel free to download and use.
