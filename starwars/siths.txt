@@ -66,6 +66,8 @@ Darish
 DarishVol
 DarkJedi
 DarkLady
+DarkJedi
+DarkSide
 DarkLadyoftheSith
 Darth
 DarthAcharon
