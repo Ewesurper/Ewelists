@@ -565,7 +565,7 @@ ForceDrain
 ForceDestruction
 ForceNet
 ForcePhantom
-Forceshadow
+ForceShadow
 ForceSlow
 ForceInsanity
 ForceScream
