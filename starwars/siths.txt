@@ -2,7 +2,8 @@ Administrator
 AdministratorofBimmiel
 Ajunta
 AjuntaPall
-AjuntaPall,thefirstSith
+AjuntaPall,TheFirstSith
+AjuntaPallTheFirstSith
 Aleema
 AleemaKeto
 Alek
@@ -15,7 +16,7 @@ Amanoa
 Anakin
 AnakinSkywalker
 AncientSith
-ancientSithspirit
+AncientSithSpirit
 ASharad
 A'Sharad
 A'SharadHett
@@ -464,9 +465,11 @@ Siraak
 Sirak
 Sith
 SithEmpire
+SithFounder
 SithGenocide
 SithHomeworld
 SithKing
+SithLeader
 SithLord
 SithRuleofTwo
 SithWorld
@@ -497,7 +500,7 @@ TheDestroyer
 TheDowager
 TheDyarchy
 TheEmperor
-Thefirstsith
+TheFirstsith
 TheHuntress
 TheSecretApprentive
 TheSithEmperor
@@ -532,7 +535,6 @@ Vulta
 VultaDaanat
 Warb
 WarbKnull
-WhenIsayancient,ImeanAdamandEveancient
 WhiteEyes
 Wud
 WudMortell
