@@ -87,7 +87,7 @@ DarthAzard
 DarthBandon
 DarthBane
 DarthBaras
-DarthBen’Hade
+DarthBenâ€™Hade
 DarthBetton
 DarthCaba
 DarthCaedus
@@ -279,6 +279,7 @@ Granchildren
 GranchildrenofVilia
 Granddaughter
 GranddaughterofVilia
+GrandLord
 GrandLordCandraKitai
 GrandLordDannItra
 GrandLordDarishVol
@@ -322,7 +323,7 @@ KamatAegit
 KamatKrote
 Karness
 KarnessMur
-Kas’im
+Kasâ€™im
 Khar
 KharDelba
 KharDelbasystem
@@ -392,6 +393,7 @@ MandalorianNeo-Crusaders
 Neo-Crusaders
 Marka
 MarkaRagnos
+MartialLaw
 Maul
 Nache
 NacheBhelfia
@@ -415,6 +417,8 @@ OneSith
 OneoftheLostTwenty
 One-Sith
 One-SithEra
+OrderSixtysix
+Order66
 Orithall
 Ortan
 OrtanCela
@@ -435,9 +439,6 @@ Rhelg
 Rhelgsystem
 Rugess
 RugessNome
-SithOverlord
-SithWarlord
-SithWarrior
 RuleofTwo
 Satal
 SatalKeto
@@ -452,6 +453,7 @@ SevissVaa
 Shar
 SharDakhan
 Shenayag
+SheevPalpatine
 Shira
 ShiraBrie
 Sidious
@@ -460,13 +462,17 @@ Siraak
 Sirak
 Sith
 SithEmpire
-Sithgenocide
+SithGenocide
 SithHomeworld
+SithKing
 SithLord
 SithRuleofTwo
 SithWorld
 SithWorlds
 SithLord
+SithOverlord
+SithWarlord
+SithWarrior
 Skywalker
 SonofVilia
 SonofXelian
