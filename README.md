@@ -2,5 +2,5 @@
 Wordlists I have compiled. Feel free to download and use.
 
 # lists include
-Password mutation wordlist
+Password mutation wordlist,
 Sith wordlist
