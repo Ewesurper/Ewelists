@@ -2,7 +2,8 @@
 Wordlists I have compiled. Feel free to download and use.
 
 # Lists include
+* Pokemon Names
 * NFL teams and locations
-* Popular pornstars
+* All pornstars on pornhub
 * Password mutations
 * Siths
