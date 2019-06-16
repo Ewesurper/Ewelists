@@ -67,7 +67,9 @@ Darish Vol
 Dark Jedi
 Dark Lady
 Dark Lady of the Sith
+Dark Saber
 DarkSide
+DarkSaber
 Dark shear
 Darth
 Darth Acharon
@@ -89,7 +91,7 @@ Darth Azard
 Darth Bandon
 Darth Bane
 Darth Baras
-Darth Ben’Hade
+Darth Benâ€™Hade
 Darth Betton
 Darth Caba
 Darth Caedus
@@ -345,7 +347,7 @@ Kamat Aegit
 Kamat Krote
 Karness
 Karness Mur 
-Kas’im
+Kasâ€™im
 Khar
 Khar Delba
 Khar Delba system
