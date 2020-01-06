@@ -2,10 +2,9 @@
 Wordlists I have compiled. Feel free to download and use.
 
 # Lists include
-* Presidents
-
-* Pokemon Names
+* Anime/Doujin Characters
 * NFL teams and locations
-* Pornstars on pornhub
 * Password mutations
+* Pornstars on pornhub
+* Presidents
 * Siths
