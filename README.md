@@ -2,7 +2,7 @@
 Wordlists I have compiled. Feel free to download and use.
 
 # Lists include
-* Anime/Doujin Characters
+* Animelist.net haracters
 * NFL teams and locations
 * Password mutations
 * Pornstars on pornhub
