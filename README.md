@@ -8,6 +8,7 @@ Wordlists I have compiled. Feel free to download and use.
 * Pornstars on pornhub
 * Presidents
 * Siths
+* Urban Dictionary all words
 
 # Lists not hosted
 * go_download
