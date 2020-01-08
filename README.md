@@ -12,3 +12,5 @@ Wordlists I have compiled. Feel free to download and use.
 
 # Lists not hosted
 * go_download
+** All hashes cracked on Hashes.org
+** All titles in wikipedia name space 0
