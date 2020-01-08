@@ -10,6 +10,7 @@ Wordlists I have compiled. Feel free to download and use.
 * Siths
 * Urban Dictionary all words
 
-# Lists not hosted
-* All hashes cracked on Hashes.org
-* All titles in wikipedia name space 0
+# Resources.txt
+http://dumps.wikimedia.org/enwiki/latest/enwiki-latest-all-titles-in-ns0.gz
+https://hashes.org/left.php
+https://weakpass.com/wordlist
