@@ -1,9 +1,0 @@
-#All page titles on wikipedia
-http://dumps.wikimedia.org/enwiki/latest/enwiki-latest-all-titles-in-ns0.gz
-
-#All hashes cracked from hashes.org
-#Should be a file for each year
-https://hashes.org/left.php
-
-#Multiple lists here
-https://weakpass.com/wordlist
